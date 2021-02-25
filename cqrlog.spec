@@ -26,6 +26,7 @@ BuildRequires:  pkgconfig(cairo)
 BuildRequires:  pkgconfig(gdk-pixbuf-2.0)
 BuildRequires:  pkgconfig(gtk+-x11-2.0)
 BuildRequires:  gtk+3-devel
+BuildRequires:  appstream-util
 
 Requires:	mariadb-server
 Requires:       openssl
