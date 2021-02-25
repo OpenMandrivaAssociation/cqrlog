@@ -19,6 +19,10 @@ BuildRequires:	lazarus >= 1.8
 BuildRequires:  pkgconfig(appstream-glib)
 BuildRequires:  pkgconfig(hamlib)
 BuildRequires:  trustedqsl-devel
+BuildRequires:  pkgconfig(pango)
+BuildRequires:  pkgconfig(atk)
+BuildRequires:  pkgconfig(x11)
+BuildRequires:  pkgconfig(cairo)
 
 Requires:	mariadb-server
 Requires:       openssl
