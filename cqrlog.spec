@@ -4,7 +4,7 @@ Release:	1%{?dist}
 Summary:	An amateur radio contact logging program
 
 License:	GPLv2
-URL:		http://www.cqrlog.com/
+URL:		https://www.cqrlog.com/
 Source0:	https://github.com/ok2cqr/cqrlog/archive/v%{version}/%{name}-%{version}.tar.gz
 
 # Fixes arm builds, translation improvements, and other bug fixes.
